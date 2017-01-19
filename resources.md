@@ -1,6 +1,6 @@
-# Recommended resources
+# Recommended Resources
 
-## Helpful Articles
+## Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
 ## Projects and Ideas
