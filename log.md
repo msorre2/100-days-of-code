@@ -22,6 +22,6 @@
 
 ### Day 1: February 1
 
-**Topic/Progress: Pure CSS Images
+**Topic/Progress:
 
 **Link(s)**
