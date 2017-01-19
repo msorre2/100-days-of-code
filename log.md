@@ -1,4 +1,4 @@
-# #100DaysOfCode Log
+# 100 Days of Code :octocat: Log
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
@@ -20,10 +20,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 01: February 1, 2017
+### Day 01: January 19, 2017
 
 **Today's Progress**: 
+>Color Guessing Game
 
-**Thoughts:**
+**Thoughts:** 
+>By making a game, I gained experience in JavaScript, including variables, arrays, loops, and functions.
 
 **Link to work:**
+>[Color Guessing Game](http://www.#.com)
