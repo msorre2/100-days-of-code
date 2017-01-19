@@ -20,8 +20,10 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 1: February 1
+### Day 01: February 1, 2017
 
-**Topic/Progress:
+**Today's Progress**: 
 
-**Link(s)**
+**Thoughts:**
+
+**Link to work:**
