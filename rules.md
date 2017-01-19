@@ -1,12 +1,10 @@
-# Rules of the 100 Days of Code Challenge
+# 100 Days of Code Challenge
+## *I will code for an hour each day over the next 100 days*
 
-## Main Commitment
-### *I will code for an hour each day over the next 100 days*
-
-#### Start Date
+### Start Date
 February 1, 2017
 
-## Additional Rules
+## Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
@@ -16,6 +14,6 @@ February 1, 2017
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
