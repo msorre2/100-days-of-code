@@ -6,19 +6,16 @@
 -->
 
 ### Day 01:
->November 26, 2017
+>December 1, 2017
 
 **Project:**
->Personal Portfolio Website
-
-**Thoughts:**
->
+>Personal Portfolio
 
 **Link to work:**
 >
 
-## Day 02: Event Invitation
->November 27, 2017
+## Day 02: 
+>December 2, 2017
 
 **Project:**
 >
@@ -26,8 +23,8 @@
 **Thoughts:**
 >
 
-## Day 03: Tourist Attraction
->November 28, 2017
+## Day 03:
+>December 3, 2017
 
 **Project:**
 >
