@@ -6,16 +6,16 @@
 -->
 
 ### Day 01:
->December 1, 2017
+>February 22, 2018
 
 **Project:**
->Personal Portfolio
+>
 
 **Link to work:**
 >
 
 ## Day 02: 
->December 2, 2017
+>February 23, 2018
 
 **Project:**
 >
@@ -24,7 +24,7 @@
 >
 
 ## Day 03:
->December 3, 2017
+>February 24, 2018
 
 **Project:**
 >
