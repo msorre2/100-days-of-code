@@ -2,7 +2,7 @@
 ## *I will code for an hour each day over the next 100 days*
 
 ### Start Date
-November 26, 2017
+February 22, 2018
 
 ## Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
